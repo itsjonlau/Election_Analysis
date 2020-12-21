@@ -24,4 +24,18 @@ The Analysis of the Election show that :
   
   ## Challenge Overview
   
+  The Purpose of this Challenge is to take the code we have created and add an extra Analysis to obtain more vote info
+  
   ##Challenge Summary
+Info that we were successfully able to achieve and filter out would be the following: 
+  County Votes: for Jeferson, Denver , and Arapahoe. 
+  The Largest county turnout: Denever
+  Percentage of votes per county 
+  
+  Jefferson : 10.5% which was 38,855 votes
+  Denver: 82.8% which was 306,055 votes
+  Arapahoe: 6.7% which was 24,801 votes
+  
+  
+  
+  
